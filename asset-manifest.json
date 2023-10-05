@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/benayaram.com/static/css/main.073c9b0a.css",
+    "main.js": "/benayaram.com/static/js/main.922879bc.js",
+    "static/js/787.c4256d02.chunk.js": "/benayaram.com/static/js/787.c4256d02.chunk.js",
+    "index.html": "/benayaram.com/index.html",
+    "main.073c9b0a.css.map": "/benayaram.com/static/css/main.073c9b0a.css.map",
+    "main.922879bc.js.map": "/benayaram.com/static/js/main.922879bc.js.map",
+    "787.c4256d02.chunk.js.map": "/benayaram.com/static/js/787.c4256d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.922879bc.js"
+  ]
+}
